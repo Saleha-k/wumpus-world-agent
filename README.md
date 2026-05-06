@@ -141,9 +141,9 @@ wumpus-world-kb-agent/
 
 ---
 
-## 🧠 Strategy Note
+## 🌐 Live Demo
 
-If no safe cell can be logically proven, the agent:
-> Falls back to exploring the closest frontier cell.
+Try the project here:  
+https://wumpus-world-knowledge-based-agent-ashy.vercel.app/
 
 ---
